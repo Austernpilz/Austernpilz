@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Austernpilz
-- 👀 I study in Bioinformatics at FU-Berlin
+- 👀 I study Bioinformatics at FU-Berlin
